@@ -16,12 +16,12 @@ export class PessoaslistComponent {
 
   constructor(){
 
-    this.lista.push(new Pessoa("Wellington", 33));
-    this.lista.push(new Pessoa("Wellington", 29));
-    this.lista.push(new Pessoa("Wellington", 35));
-    this.lista.push(new Pessoa("Wellington", 60));
-    this.lista.push(new Pessoa("Wellington", 10));
-    this.lista.push(new Pessoa("Wellington", 40));
+    this.lista.push(new Pessoa("Matheus", 33));
+    this.lista.push(new Pessoa("João", 19));
+    this.lista.push(new Pessoa("Cleber", 39));
+    this.lista.push(new Pessoa("Endrick", 50));
+    this.lista.push(new Pessoa("Washington", 15));
+    this.lista.push(new Pessoa("Zacarias", 30));
 
   }
 
